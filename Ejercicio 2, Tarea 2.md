@@ -8,9 +8,8 @@ Se creó el repositorio [Tareas_BioinfoRepro2025_ARR](https://github.com/Ana-ing
 
 ## Clonar el repositorio chocolate
 
-Este ejercicio no fue posible de realizar, ya que luego de tratar de asociar el programa git con el repositorio de github, el programa git no volvió a reconocer los comandos de git.
+Se logró clonar el repositorio Repo_chocolate utilizando el comando `git clone` seguido del ULR del repositorio, luego se utilizó el comando `git branch` para crear una nueva rama; la nueva rama se llama AnaR y se utilizó el comando `git checkout` seguido del nombre de la rama (AnaR) para cambiar de la rama principal o master, a la nueva creada.
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-08-31-23-23-47-image.png)
 
 
 
