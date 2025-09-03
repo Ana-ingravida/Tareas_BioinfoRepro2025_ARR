@@ -9,6 +9,12 @@ Se creó el repositorio [Tareas_BioinfoRepro2025_ARR](https://github.com/Ana-ing
 ## Clonar el repositorio chocolate
 
 Se logró clonar el repositorio Repo_chocolate utilizando el comando `git clone` seguido del ULR del repositorio, luego se utilizó el comando `git branch` para crear una nueva rama; la nueva rama se llama AnaR y se utilizó el comando `git checkout` seguido del nombre de la rama (AnaR) para cambiar de la rama principal o master, a la nueva creada.
+Una vez dentro de la rama, se utilizó el comando `nano` para crear un archivo que contenía los datos requeridos por la tarea, el archivo fue nombrado como Datos.txt, añadido a la rama usando el comando `git add` seguido del nombre del archivo, luego los cambios fueron guardados con el comando `git commit -m` seguido del nombre del archivo.
+Para visualizar los cambios, se empleó el comando `git status`, para visualizar el contenido del archivo Datos.txt, se usó el comando `cat` seguido del nombre del archivo.
+A continuación, una captura de pantalla de lo realizado.
+[Imagen de prueba](https://drive.google.com/file/d/1ameQjcy5jlVzHKCeakq9fHAZnwwS9zmJ/view?usp=drive_link)
+
+
 
 
 
