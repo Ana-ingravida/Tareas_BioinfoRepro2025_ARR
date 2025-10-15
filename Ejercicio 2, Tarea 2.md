@@ -16,10 +16,12 @@ A continuación, una captura de pantalla de lo realizado.
 
 
 
+<img width="458" height="530" alt="Ejercicio 2, tarea 1- Bioinfo" src="https://github.com/user-attachments/assets/c4be23a0-1512-4af0-8c5f-ecba062fb21c" />
 
 
 
-<img width="290" height="280" alt="1" src="https://github.com/user-attachments/assets/a113b00a-6fb7-40e4-94f7-d74d70eeba6a" />
+
+
 
 
 
