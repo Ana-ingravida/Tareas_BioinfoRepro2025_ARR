@@ -12,7 +12,8 @@ b <- 5
 a+b
 ```
 
-![E1](C:\Users\cosit\Pictures\Ejercicio%201,%20Tarea%203%20bioinfo.png)
+<img width="835" height="160" alt="Ejercicio 1, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/62eae647-328f-4df5-a36e-8b9d75e9e251" />
+
 
 ### Ejercicio 2
 
@@ -34,7 +35,8 @@ a) Sumar el número 2 a todos los números entre 1 y 150.
   
   `resultado`
   
-  ![E2a](C:\Users\cosit\Pictures\Ejercicio%202.a,%20Tarea%203%20bioinfo.png)
+<img width="797" height="274" alt="Ejercicio 2 a, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/d9feb1dc-7bba-4c4b-ae30-696a324f1deb" />
+
 
 b) ¿Cuántos números son mayores a 20 en el vector -13432:234?
 
@@ -50,7 +52,8 @@ b) ¿Cuántos números son mayores a 20 en el vector -13432:234?
 
 * `sum(vec.b>20)`
   
-  ![E2.b](C:\Users\cosit\Pictures\Ejercicio%202.b,%20Tarea%203%20bioinfo.png)
+<img width="1333" height="238" alt="Ejercicio 2 b, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/eda6cf80-526b-4bc6-bb1c-7b8292dfdf52" />
+
 
 ### Ejercicio 3
 
@@ -73,7 +76,8 @@ Carga en R el archivo `PracUni1Ses3/maices/meta/maizteocintle_SNP50k_meta_exten
   meta_maiz
   ```
   
-  ![E3](C:\Users\cosit\Pictures\Ejercicio%203,%20Tarea%203%20bioinfo.png)
+<img width="989" height="116" alt="Ejercicio 3, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/4af2ce12-82aa-4ead-97f4-a479bf2d7203" />
+
 
 ### Ejercicio 4
 
@@ -81,7 +85,8 @@ a) Escribe un for loop para que divida 35 entre 1:10 e imprima el resultado en l
 
 `for (i in 1:10) {print (paste (35/i))}`
 
-![E4a](C:\Users\cosit\Pictures\Ejercicio%204a,%20Tarea%203%20bioinfo.png)
+<img width="177" height="146" alt="Ejercicio 4a, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/c3fd0cd2-f105-4753-af5e-3d08b0e83ff7" />
+
 
 b) Modifica el loop anterior para que haga las divisiones solo para los números nones (con un comando, NO con `c(1,3,...)`). Pista: `next`.
 
@@ -100,7 +105,8 @@ b) Modifica el loop anterior para que haga las divisiones solo para los números
   }
   ```
   
-  ![E4b](C:\Users\cosit\Pictures\Ejercicio%204b,%20Tarea%203%20bioinfo.png)
+<img width="165" height="78" alt="Ejercicio 4b, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/2f665d21-c376-4af6-9455-ec017a841ddd" />
+
 
 c) Modifica el loop anterior para que los resultados de correr todo el loop se guarden en una df de dos columnas, la primera debe tener el texto "resultado para x" (donde x es cada uno de los elementos del loop) y la segunda el resultado correspondiente a cada elemento del loop. Pista: el primer paso es crear un vector *fuera* del loop. 
 
@@ -128,7 +134,8 @@ c) Modifica el loop anterior para que los resultados de correr todo el loop se g
   df
   ```
   
-  ![E4c](C:\Users\cosit\Pictures\Ejercicio%204c,%20Tarea%203%20bioinfo.png)
+<img width="307" height="326" alt="Ejercicio 4c, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/15a7f70c-00f5-41a2-988a-e6d7cd765fd7" />
+
 
 ### Ejercicio 5
 
@@ -187,6 +194,6 @@ Escribe una función llamada `calc.tetha` que te permita calcular tetha dados 
   
   `calc.tetha(Ne= 3, u=2)`
   
-  ![E6](C:\Users\cosit\Pictures\Ejercicio%206,%20Tarea%203%20bioinfo.png)
+<img width="333" height="174" alt="Ejercicio 6, Tarea 3 bioinfo" src="https://github.com/user-attachments/assets/00962c21-c00b-424c-a566-f53205391433" />
 
-# 
+
