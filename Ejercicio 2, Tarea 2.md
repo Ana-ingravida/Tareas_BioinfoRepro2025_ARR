@@ -12,7 +12,8 @@ Se logró clonar el repositorio Repo_chocolate utilizando el comando `git clone`
 Una vez dentro de la rama, se utilizó el comando `nano` para crear un archivo que contenía los datos requeridos por la tarea, el archivo fue nombrado como Datos.txt, añadido a la rama usando el comando `git add` seguido del nombre del archivo, luego los cambios fueron guardados con el comando `git commit -m` seguido del nombre del archivo.
 Para visualizar los cambios, se empleó el comando `git status`, para visualizar el contenido del archivo Datos.txt, se usó el comando `cat` seguido del nombre del archivo.
 A continuación, una captura de pantalla de lo realizado.
-![Imagen de prueba](https://drive.google.com/file/d/1ameQjcy5jlVzHKCeakq9fHAZnwwS9zmJ/view?usp=drive_link)
+[Imagen de prueba](https://drive.google.com/file/d/1ameQjcy5jlVzHKCeakq9fHAZnwwS9zmJ/view?usp=drive_link)
+
 
 
 
