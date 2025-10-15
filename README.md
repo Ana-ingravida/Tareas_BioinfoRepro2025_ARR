@@ -4,7 +4,10 @@ This repository contains the assigned task for every session by the instructor o
 ## Temario
 ### Unidad 1
 [Homework n°2: Exercise 1](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%201%2C%20Tarea%202.md) 
+
 [Homework n°2: Exercise 2](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%202%2C%20Tarea%202.md)
+
 [Homework n°2: Exercise 3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%203%2C%20Tarea%202.md)
 
-[Homework n°3] 
+
+[Homework n°3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%203%2C%20bioinfo.md)
