@@ -14,7 +14,8 @@ Para visualizar los cambios, se empleó el comando `git status`, para visualizar
 A continuación, una captura de pantalla de lo realizado.
 [Imagen de prueba](https://drive.google.com/file/d/1ameQjcy5jlVzHKCeakq9fHAZnwwS9zmJ/view?usp=drive_link)
 
-![alt +](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Europe%2C_administrative_divisions_-_es_-_colored.svg/960px-Europe%2C_administrative_divisions_-_es_-_colored.svg.png) 
+
+
 
 
 
