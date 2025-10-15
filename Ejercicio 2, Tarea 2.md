@@ -13,6 +13,8 @@ Una vez dentro de la rama, se utilizó el comando `nano` para crear un archivo q
 Para visualizar los cambios, se empleó el comando `git status`, para visualizar el contenido del archivo Datos.txt, se usó el comando `cat` seguido del nombre del archivo.
 A continuación, una captura de pantalla de lo realizado.
 [Imagen de prueba](https://drive.google.com/file/d/1ameQjcy5jlVzHKCeakq9fHAZnwwS9zmJ/view?usp=drive_link)
+![alt +](drive.google.com/file/d/1ameQjcy5jlVzHKCeakq9fHAZnwwS9zmJ/view)
+
 
 
 
