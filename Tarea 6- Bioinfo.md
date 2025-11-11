@@ -263,17 +263,17 @@ De acuerdo al valor de p (0,599), son suficientes 2 flujos génicos para explica
 
 *qp-Adm*:Resultado
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P2%20(qp-Adm%204),%20Tarea%206.png)
+<img width="842" height="554" alt="Tabla 4 P2 (qp-Adm 4), Tarea 6" src="https://github.com/user-attachments/assets/808e814c-afd1-480c-870c-95c55b70a08d" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P2%20(qp-Adm%204%20continuación),%20Tarea%206.png)
+<img width="840" height="529" alt="Tabla 4 P2 (qp-Adm 4 continuación), Tarea 6" src="https://github.com/user-attachments/assets/6bb27e50-7051-4ecd-8e46-9c6ee536eb4c" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P2%20(qp-Adm%204%20continuación%202),%20Tarea%206.png)
+<img width="842" height="219" alt="Tabla 4 P2 (qp-Adm 4 continuación 2), Tarea 6" src="https://github.com/user-attachments/assets/51ab9ad4-b15f-4318-b340-bff6a9b8df10" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P2%20(qp-Adm1),%20Tarea%206.png)
+<img width="491" height="76" alt="Tabla 4 P2 (qp-Adm2), Tarea 6" src="https://github.com/user-attachments/assets/f31e1c0e-1168-4383-b96e-e9a2ca804114" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P2%20(qp-Adm2),%20Tarea%206.png)
+<img width="921" height="91" alt="Tabla 4 P2 (qp-Adm1), Tarea 6" src="https://github.com/user-attachments/assets/b155ae4b-efa3-4f0f-9486-1ff4843e55f6" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P2%20(qp-Adm3),%20Tarea%206.png)
+<img width="465" height="70" alt="Tabla 4 P2 (qp-Adm3), Tarea 6" src="https://github.com/user-attachments/assets/699225db-77ba-4eed-b555-fc0f7c0fb637" />
 
 **Interpretación:**
 
@@ -404,19 +404,19 @@ De acuerdo al valor de p (< 0,05), se rechaza la hipótesis nula, hacen falta m�
 
 *qp-Adm*:Resultado
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P4%20(qp-Adm%204),%20Tarea%206.png)
+<img width="814" height="553" alt="Tabla 4 P4 (qp-Adm 4), Tarea 6" src="https://github.com/user-attachments/assets/d4811b11-cbc5-4da7-beaa-c2eb4bf9d35f" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-15-20-54-image.png)
+<img width="816" height="553" alt="Tabla 4 P4 (qp-Adm 4 continuación), Tarea 6" src="https://github.com/user-attachments/assets/8dba7d20-6632-4646-bf9f-8f0b5f510162" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-15-21-16-image.png)
+<img width="815" height="556" alt="Tabla 4 P4 (qp-Adm 4 continuación 2), Tarea 6" src="https://github.com/user-attachments/assets/b730828f-0e15-4f50-bafd-f879bb27ffdb" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-15-22-17-image.png)
+<img width="814" height="364" alt="Tabla 4 P4 (qp-Adm 4 continuación 3), Tarea 6" src="https://github.com/user-attachments/assets/1ff9c796-305f-4557-826f-6996506cfcc0" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-15-32-07-image.png)
+<img width="503" height="70" alt="Tabla 4 P4 (qp-Adm2), Tarea 6" src="https://github.com/user-attachments/assets/ce4c18c8-77b1-49c1-92dd-96dbf897ccc8" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20P4%20(qp-Adm2),%20Tarea%206.png)
+<img width="883" height="93" alt="Tabla 4 P4 (qp-Adm1), Tarea 6" src="https://github.com/user-attachments/assets/08fe7e19-6623-491a-a100-dc595c647129" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-15-30-32-image.png)
+<img width="419" height="71" alt="Tabla 4 P4 (qp-Adm3), Tarea 6" src="https://github.com/user-attachments/assets/91781924-71f4-4bcd-8aa2-cbfb32ecee96" />
 
 **Interpretación:**
 
@@ -457,6 +457,7 @@ Weight: Muestra para las poblaciones target y las poblaciones potenciales fuente
 **Conclusión**
 
 El 91,9% de la contribución de flujo génico para la población Spain_Islamic.AG viene dada por la población Spain_MLN.AG y el 8,1% viene dada por Morocco_EN.WGC.SG, y este modelo es posible (TRUE).
+
 
 
 
