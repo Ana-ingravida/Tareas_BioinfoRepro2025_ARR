@@ -231,9 +231,9 @@ La población Kazakhstan_Maitan_MLBA_Alakul.AG comparte más deriva genética co
 
 *qp-wave*: Resultado
 
-![](C:\Users\cosit\Pictures\Tabla%203%20P2%20(qp-wave),%20Tarea%206.png)
+<img width="769" height="199" alt="Tabla 3 P2 (qp-wave), Tarea 6" src="https://github.com/user-attachments/assets/bf5ad7bd-34e3-4eba-beb7-84cfc94b28d9" />
 
-![](C:\Users\cosit\Pictures\Tabla%203%20P2%20(qp-wave%20continuación),%20Tarea%206.png)
+<img width="490" height="73" alt="Tabla 3 P2 (qp-wave continuación), Tarea 6" src="https://github.com/user-attachments/assets/6e8ec6ab-387d-4afd-aca0-c888731176dd" />
 
 **Interpretación:**
 
@@ -372,9 +372,9 @@ La población Spain_NazariPeriod_Muslim.AG comparte más deriva genética con la
 
 *qp-wave*: Resultado
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-14-50-58-image.png)
+<img width="737" height="239" alt="Tabla 3 P4 (qp-wave), Tarea 6" src="https://github.com/user-attachments/assets/28bc9a1e-444b-4221-800c-98bd4708007f" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-14-51-22-image.png)
+<img width="505" height="73" alt="Tabla 3 P4 (qp-wave continuación), Tarea 6" src="https://github.com/user-attachments/assets/ad6ca3ab-b8ba-4f68-bce0-328b2eafbd9b" />
 
 **Interpretación:**
 
@@ -457,5 +457,6 @@ Weight: Muestra para las poblaciones target y las poblaciones potenciales fuente
 **Conclusión**
 
 El 91,9% de la contribución de flujo génico para la población Spain_Islamic.AG viene dada por la población Spain_MLN.AG y el 8,1% viene dada por Morocco_EN.WGC.SG, y este modelo es posible (TRUE).
+
 
 
