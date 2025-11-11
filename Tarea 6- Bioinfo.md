@@ -175,11 +175,9 @@ Poblaciones involucradas:
 
 - Mbuti.DG: Población Africana moderna.
 
-- 
-
 *Estadístico Outgroup-F3*: Resultado
 
-![](C:\Users\cosit\Pictures\Tabla%201%20P2%20(f3),%20Tarea%206.png)
+<img width="619" height="149" alt="Tabla 1 P2 (f3), Tarea 6" src="https://github.com/user-attachments/assets/74a157fd-dcd6-4c35-8173-367332c276ca" />
 
 **Interpretación:**
 
@@ -209,7 +207,7 @@ Las poblaciones (pares) con menor valor de F3 (0,067) son aquellas con menos der
 
 *Estadístico F4*: Resultados
 
-![](C:\Users\cosit\Pictures\Tabla%202%20P2%20(f4),%20Tarea%206.png)
+<img width="751" height="53" alt="Tabla 2 P2 (f4), Tarea 6" src="https://github.com/user-attachments/assets/3028afd8-0881-4ecc-859c-0ab0bb88ba6e" />
 
 **Interpretación:**
 
@@ -327,7 +325,7 @@ Poblaciones involucradas:
 
 <u>*Estadístico Outgroup-F3*: Resultado</u>
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-14-29-03-image.png)
+<img width="626" height="345" alt="Tabla 1 P4 (f3), Tarea 6" src="https://github.com/user-attachments/assets/70e1d1c0-4c11-4dc2-b83f-3bd45feaba5a" />
 
 **Interpretación:**
 
@@ -357,7 +355,8 @@ Las poblaciones (pares) con menor valor de F3 (0,076) son aquellas con menos der
 
 <u>*Estadístico F4*: Resultados</u>
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-07-14-48-05-image.png)
+<img width="694" height="55" alt="Tabla 2 P4 (f4), Tarea 6" src="https://github.com/user-attachments/assets/ffefd191-206e-4b1e-abc6-8b0a42d1b155" />
+
 
 **Interpretación:**
 
@@ -458,4 +457,5 @@ Weight: Muestra para las poblaciones target y las poblaciones potenciales fuente
 **Conclusión**
 
 El 91,9% de la contribución de flujo génico para la población Spain_Islamic.AG viene dada por la población Spain_MLN.AG y el 8,1% viene dada por Morocco_EN.WGC.SG, y este modelo es posible (TRUE).
+
 
