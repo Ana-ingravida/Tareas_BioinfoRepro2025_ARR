@@ -24,7 +24,8 @@ Poblaciones involucradas:
 
 <u>*Estadístico Outgroup-F3*: Resultado </u>
 
-![EF3 R](C:\Users\cosit\Pictures\Tabla%201%20(f3),%20Tarea%206.png)
+<img width="582" height="213" alt="Tabla 1 (f3), Tarea 6" src="https://github.com/user-attachments/assets/3ba8ce12-3c31-4783-bd14-30388093b30a" />
+
 
 **Interpretación:**
 
@@ -56,7 +57,8 @@ Las poblaciones (pares) con menor valor de F3 (0,069) son aquellas con menos der
 
 <u>*Estadístico F4*: Resultados</u>
 
-![EF4](C:\Users\cosit\Pictures\Tabla%202%20(f4),%20Tarea%206.png)
+<img width="704" height="43" alt="Tabla 2 (f4), Tarea 6" src="https://github.com/user-attachments/assets/6ff7c90a-c167-4e1b-83b5-cafdf3ce93e5" />
+
 
 **Interpretación:**
 
@@ -80,9 +82,10 @@ La población Basque.DG comparte más deriva genética con la población Turkey_
 
 <u>*qp-wave*: Resultado</u>
 
-![](C:\Users\cosit\Pictures\Tabla%203%20(qp-wave),%20Tarea%206.png)
+<img width="714" height="455" alt="Tabla 3 (qp-wave), Tarea 6" src="https://github.com/user-attachments/assets/054861a4-4fba-4a48-b4a0-b342c825d5de" />
 
-![](C:\Users\cosit\Pictures\Tabla%203%20(qp-wave%20continuación),%20Tarea%206.png)
+<img width="508" height="132" alt="Tabla 3 (qp-wave continuación), Tarea 6" src="https://github.com/user-attachments/assets/f13aa0db-1e42-4f59-a97c-fbafd0c3ff46" />
+
 
 **Interpretación:**
 
@@ -112,17 +115,17 @@ De acuerdo al valor de p (0,966), son suficientes 3 flujos génicos para explica
 
 <u>*qp-Adm*: Resultado</u>
 
-![](C:\Users\cosit\Pictures\Tabla%204%20(qp-Adm1),%20Tarea%206.png)
+<img width="809" height="553" alt="Tabla 4 (qp-Adm1), Tarea 6" src="https://github.com/user-attachments/assets/eb742b0f-e6f9-426f-a51f-534e43431741" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20(qp-Adm2),%20Tarea%206.png)
+<img width="804" height="529" alt="Tabla 4 (qp-Adm2), Tarea 6" src="https://github.com/user-attachments/assets/dc2f70d4-cffd-486b-8a1e-6e7df7910965" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20(qp-Adm3),%20Tarea%206.png)
+<img width="807" height="212" alt="Tabla 4 (qp-Adm3), Tarea 6" src="https://github.com/user-attachments/assets/cede9b04-0903-4d72-ab5e-63294bc998f2" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20(qp-Adm%20continuación),%20Tarea%206.png)
+<img width="489" height="70" alt="Tabla 4 (qp-Adm continuación), Tarea 6" src="https://github.com/user-attachments/assets/7e513b89-ba2d-4c21-b49c-c3dbd66b902c" />
 
-![](C:\Users\cosit\Pictures\Tabla%204%20(qp-Adm%20continuación%202),%20Tarea%206.png)
+<img width="1006" height="91" alt="Tabla 4 (qp-Adm continuación 2), Tarea 6" src="https://github.com/user-attachments/assets/6a747185-81e2-4597-8be8-d6bc843378d3" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-11-02-34-34-image.png)
+<img width="436" height="73" alt="Tabla 4 (qp-Adm continuación 3), Tarea 6" src="https://github.com/user-attachments/assets/fb5ae44f-7a9d-4bad-8e96-1de6cfb3ad9b" />
 
 **Interpretación:**
 
@@ -455,3 +458,4 @@ Weight: Muestra para las poblaciones target y las poblaciones potenciales fuente
 **Conclusión**
 
 El 91,9% de la contribución de flujo génico para la población Spain_Islamic.AG viene dada por la población Spain_MLN.AG y el 8,1% viene dada por Morocco_EN.WGC.SG, y este modelo es posible (TRUE).
+
