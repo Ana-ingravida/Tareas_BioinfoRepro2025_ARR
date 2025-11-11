@@ -11,3 +11,7 @@ This repository contains the assigned task for every session by the instructor o
 
 
 [Homework n°3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%203%2C%20bioinfo.md)
+
+
+### Unidad 2 
+[Homework n°6](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%206-%20Bioinfo.md)
