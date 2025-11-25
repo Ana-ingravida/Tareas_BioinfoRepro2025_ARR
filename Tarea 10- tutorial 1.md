@@ -43,7 +43,7 @@
    
    El código CIGAR es una sección que describe cómo una lectura se alinea a la secuencia de referencia en un archivo SAM o BAM. Cada letra tiene un significado.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-19-13-44-46-image.png)
+   <img width="1349" height="93" alt="Tarea 10" src="https://github.com/user-attachments/assets/5d607328-9c09-4f27-8e6b-6cb923c856de" />
    
    Secciones:
    
@@ -95,30 +95,24 @@ De las lecturas mapeadas, al menos una es una inserción en un 1.47%, al menos u
 
 Finalmente, en cuanto a la calidad del mapeo, tal como se observa en la **figura 4**, en promedio esta es de 58.8, lo que indica aunque las lecturas mapeadas están dispersas en posiciones puntuales del genoma (en regiones de interés), todas ellas tienen buena calidad de mapeo; no hay evidencia de problemas de alineamiento, ni lecturas ambiguas.
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-21-06-56-08-genome_coverage_across_reference.png)
+<img width="1024" height="768" alt="genome_coverage_across_reference" src="https://github.com/user-attachments/assets/ef331131-a244-4232-84ff-707611b80d35" />
 
 ***Figura 1:*** *Coverage across reference* 
 El gráfico se encuentra dividido en 2 paneles. El panel superior corresponde al panel de *Cobertura (X)*, en el eje Y se representa la cobertura de la secuenciación y en el eje X la posición según pares de bases; en este se observa un rango de cobertura heterogéneo, la mayoría de las secuencias tienen una cobertura baja, que va entre 0-60X aproximadamente, una minoría de las secuencias tienen una cobertura baja-media, que va entre 100-125X, finalmente, se observa un pico aislado en el que la cobertura supera los 600X. El panel inferior corresponde al *Contenido de G-C por posición (%)*  en el que los peaks (líneas de color negro) indican porcentaje G-C del fragmento asociado a cada punto de cobertura y las líneas rojas punteadas indican el promedio G-C del conjunto de regiones; en este se observan regiones con un contenido G-C bajo, de aproximadamente 30-35%, y regiones con alto contenido G-C más alto, de aproximadamente 60-65%.
 
-
-
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-21-07-02-49-genome_insert_size_across_reference.png)
+<img width="1024" height="768" alt="genome_insert_size_across_reference" src="https://github.com/user-attachments/assets/59136c49-fdef-4940-9ab7-722287662d9d" />
 
 ***Figura 2***: *Insert Size Across Reference*
 
 El gráfico muestra el tamaño del inserto, es decir, la distancia entre el inicio del fragmento forward y el fin del fragmento reverse en un par de lecturas paired-end. Las líneas verdes corresponden a una región dentro del archivo BED, Las regiones aparecen distribuidas por el genoma, solo en las regiones en estudio; se observa que la mayoría de los insert size van desde las 240pb a las 265pb, aunque hay una que supera los 320pb. 
 
-
-
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-21-07-07-08-genome_reads_clipping_profile.png)
+<img width="1024" height="768" alt="genome_reads_clipping_profile" src="https://github.com/user-attachments/assets/1fa98840-d648-47c9-aedf-8a2851ca96ca" />
 
 ***Figura 3***: *Mapped Reads Clipping Profile*
 
 En este gráfico se analiza el porcentaje de bases que está siendo enmascarado (recortado) en cada posición a lo largo de las lecturas mapeadas. En el eje X se representa la posición dentro del read, que va de 0 a 260 pb; en el eje Y se muestra el porcentaje de bases a las que se les realizó clipping, que va de 0 a 100%. Se observa que en la mayor parte del read, hasta 225pb aproximadamente, el clipping es bajo, al pasar esa posición, el porcentaje de clipping aumenta levemente.
 
-
-
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2025-11-21-06-58-54-genome_mapping_quality_across_reference.png)
+<img width="1024" height="768" alt="genome_mapping_quality_across_reference" src="https://github.com/user-attachments/assets/a3bc868f-308b-4926-b859-4552047cb1f6" />
 
 ***Figura 4***: *Mapping Quality Across Reference*
 
@@ -132,3 +126,4 @@ Se tiene un archivo de cobertura de secuenciación variable, en la que la mayor 
 Pese a lo anterior, el porcentaje de secuencias enmascaradas (que se producen cuando hay problemas en los extremos de las lecturas o por contaminación por adaptadores) es bajo y la calidad del mapeo es aceptable.
 
 # 
+
