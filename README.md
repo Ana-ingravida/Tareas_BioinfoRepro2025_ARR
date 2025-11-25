@@ -2,7 +2,7 @@
 ## This repository
 This repository contains the assigned task for every session by the instructor of the course, Professor Ricardo Verdugo; the tasks are organized following this order: Exercise/Homework/Unit.
 ## Temario
-### Unidad 1
+### Unit 1
 [Homework n°2: Exercise 1](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%201%2C%20Tarea%202.md) 
 
 [Homework n°2: Exercise 2](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%202%2C%20Tarea%202.md)
@@ -13,9 +13,12 @@ This repository contains the assigned task for every session by the instructor o
 [Homework n°3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%203%2C%20bioinfo.md)
 
 
-### Unidad 2 
+### Unit 2 
 [Homework n°6](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%206-%20Bioinfo.md)
 
 
-### Unidad 3
+### Unit 3
 [Homework n°9](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%209.md) 
+
+
+[Homework n°10- tutorial 1](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%2010-%20tutorial%201.md)
