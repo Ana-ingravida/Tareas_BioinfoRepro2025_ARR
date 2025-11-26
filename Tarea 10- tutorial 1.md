@@ -125,5 +125,7 @@ Se tiene un archivo de cobertura de secuenciación variable, en la que la mayor 
 
 Pese a lo anterior, el porcentaje de secuencias enmascaradas (que se producen cuando hay problemas en los extremos de las lecturas o por contaminación por adaptadores) es bajo y la calidad del mapeo es aceptable.
 
-# 
+#### Anexos
+[Archivo qualimap HTML](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/qualimapReport.html)
+
 
