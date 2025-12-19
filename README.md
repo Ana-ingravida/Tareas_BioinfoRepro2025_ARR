@@ -3,7 +3,9 @@
 This repository contains the assigned task for every session by the instructor of the course, Professor Ricardo Verdugo; the tasks are organized following this order: Exercise/Homework/Unit.
 ## Syllabus
 ### Unit 1: Introduction to programming 
-Expected learning outcome: Familiarity with the concepts of computing and programming.
+***Expected learning outcome:*** Familiarity with the concepts of computing and programming.
+###### Homework nº2: Organization of a bioinformatics project
+
 [Homework n°2: Exercise 1](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%201%2C%20Tarea%202.md) 
 
 [Homework n°2: Exercise 2](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%202%2C%20Tarea%202.md)
