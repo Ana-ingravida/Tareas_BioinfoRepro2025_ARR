@@ -3,7 +3,7 @@
 This repository contains the assigned task for every session by the instructor of the course, Professor Ricardo Verdugo; the tasks are organized following this order: Unit/Homework/Exercise.
 ## Syllabus
 ### Unit 1: Introduction to programming 
-***Expected learning outcome:*** Familiarity with the concepts of computing and programming.
+*Expected learning outcome:* Familiarity with the concepts of computing and programming.
 #### Homework nº2: Organization of a bioinformatics project
 Students are expected to be able to, as personal work:
 * Manage projects and issues on GitHub.
@@ -23,12 +23,19 @@ Students are expected to be able to, as personal work:
 
 [Homework n°3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%203%2C%20bioinfo.md)
 
-
 ### Unit 2: Population genetics with specialized software
+*Expected learning outcome:* User-level management of specialized software for population genetics with genomic data
+#### Homework nº6: Population genetics 2
+Students are expected to be able to, as personal work, run and analyze:
+* Statistics F2, F3, F4.
+* qpWave – qpAdm. 
+
 [Homework n°6](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%206-%20Bioinfo.md)
 
 
 ### Unit 3: Generation and alignment of NGS data
+*Expected learning outcome:*
+
 [Homework n°9](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%209.md) 
 
 
@@ -36,4 +43,4 @@ Students are expected to be able to, as personal work:
 
 
 ### Unit 4: Transcriptome analysis
-
+*Expected learning outcome:*
