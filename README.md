@@ -1,10 +1,13 @@
 # Homeworks: Introduction to bioinformatics and reproducible investigation for genomics analysis
 ## This repository
-This repository contains the assigned task for every session by the instructor of the course, Professor Ricardo Verdugo; the tasks are organized following this order: Exercise/Homework/Unit.
+This repository contains the assigned task for every session by the instructor of the course, Professor Ricardo Verdugo; the tasks are organized following this order: Unit/Homework/Exercise.
 ## Syllabus
 ### Unit 1: Introduction to programming 
 ***Expected learning outcome:*** Familiarity with the concepts of computing and programming.
-###### Homework nº2: Organization of a bioinformatics project
+##### Homework nº2: Organization of a bioinformatics project
+Students are expected to be able to, as personal work:
+* Manage projects and issues on GitHub.
+* Create pipelines.
 
 [Homework n°2: Exercise 1](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%201%2C%20Tarea%202.md) 
 
