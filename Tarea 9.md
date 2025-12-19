@@ -1,4 +1,4 @@
-# Tarea 9
+# Tarea 8
 
 ## cBioPortal para analizar datos genómicos de cáncer
 
@@ -111,4 +111,5 @@ Redacta un breve comentario (5–10 líneas) respondiendo:
 La mayoría de las mutaciones se concentran en genes asociados con el control de la proliferación y muerte celular (KRAS, TP53, SMD4, CDKN2A) por lo que se espera que el cáncer sea de rápida progresión y diseminación, no obstante, la mayor cantidad de muestras son de tumores primarios pobre o medianamente diferenciados, recolectados en pacientes que se encuentran mayormente en estadíos tempranos de la enfermedad (IIA-IIB); esta discordancia probablemente se debe a los métodos de pesquisa y diagnóstico temprano implementados en los países involucrados en el estudio, más que por los genes mutados presentes. Es coherente la edad media de diagnóstico de este cáncer debido a que a medida que aumenta la edad del paciente, aumenta el n° de mutaciones acumuladas durante la replicación del ADN, lo que hace más propensos a los adultos mayores a sufrir neoplasias.
 
 El gen TP53 mutado es el supresor de tumores que se encuentra con mayor frecuencia en muchos tipos de cáncer, por lo que puede servir para predecir riesgo, pronóstico y respuesta a tratamiento; también, como participa en varias vías de señalización clave, puede servir como diana terapéutica en caso de fracaso de otros tratamientos dirigidos.
+
 
