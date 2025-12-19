@@ -23,8 +23,9 @@ Students are expected to be able to, as personal work:
 
 [Homework n°3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%203%2C%20bioinfo.md)
 
+
 ### Unit 2: Population genetics with specialized software
-*Expected learning outcome:* User-level management of specialized software for population genetics with genomic data
+*Expected learning outcome:* User-level management of specialized software for population genetics with genomic data.
 #### Homework nº6: Population genetics 2
 Students are expected to be able to, as personal work, run and analyze:
 * Statistics F2, F3, F4.
@@ -34,7 +35,9 @@ Students are expected to be able to, as personal work, run and analyze:
 
 
 ### Unit 3: Generation and alignment of NGS data
-*Expected learning outcome:*
+*Expected learning outcome:* Understanding the generation and analysis of genomic data.
+#### Homework nº9: Introduction to R with a bioinformatics approach
+Students are expected to be able to, as personal work:
 
 [Homework n°9](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%209.md) 
 
