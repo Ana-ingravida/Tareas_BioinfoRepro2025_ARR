@@ -4,7 +4,7 @@ This repository contains the assigned task for every session by the instructor o
 ## Syllabus
 ### Unit 1: Introduction to programming 
 ***Expected learning outcome:*** Familiarity with the concepts of computing and programming.
-##### Homework nº2: Organization of a bioinformatics project
+#### Homework nº2: Organization of a bioinformatics project
 Students are expected to be able to, as personal work:
 * Manage projects and issues on GitHub.
 * Create pipelines.
@@ -15,6 +15,11 @@ Students are expected to be able to, as personal work:
 
 [Homework n°2: Exercise 3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Ejercicio%203%2C%20Tarea%202.md)
 
+#### Homework nº3: Introduction to R with a bioinformatics approach
+Students are expected to be able to, as personal work:
+* Graphing in R.
+* Bioconductor.
+* Data Manipulation and Cleaning in R.
 
 [Homework n°3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2025_ARR/blob/main/Tarea%203%2C%20bioinfo.md)
 
