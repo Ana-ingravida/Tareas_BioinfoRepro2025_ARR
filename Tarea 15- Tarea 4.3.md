@@ -28,25 +28,25 @@ En este tutorial se utilizaron los datos correspondientes a cuatro librerías de
 
 ### Resultados
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-01-05-10-20-49-image.png)
+<img width="932" height="456" alt="F1-Tarea 15_4 3" src="https://github.com/user-attachments/assets/f316b76b-ce82-4008-ae7d-7e852f35ead6" />
 
 *Fig 1*: Observar que genes estan sobre y sub-expresados según las condiciones del medio de cultivo.  
 
 En el gráfico de dispersión de niveles de expresión de genes se define el *eje X* para cultivo plantonico  y el *eje Y* para biofilm. En el gráfico de la izquierda se observa la especie Wild type y en el de la derecha la especie mutante. Se utiliza el color rojo para destacar aquellos genes con expresión diferencial significativa; en relación a ello, se observa que para ambos grupos (Wild type y mutante) existe una distribución similar de genes de expresión diferencial, por lo cual es posible que el cambio en la expresión pudiera estar directamente relacionado con el medio de cultivo independientemente a las características del organismo.
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-01-05-10-45-55-image.png)
+<img width="926" height="427" alt="F2-Tarea 15_4 3" src="https://github.com/user-attachments/assets/5219669a-d261-42b5-b559-a6eb0a3bfb9b" />
 
 *Fig 2*: Observar que genes estan sobre y sub-expresados según los genotipos.
 
 En el gráfico de dispersión de niveles de expresión de genes se define el *eje X* para la especie Wild type y el *eje Y* para la especie mutante. En el gráfico de la izquierda se observa el medio de cultivo Planctonic y en el de la derecha el medio de cultivo Biofilm.  Se utiliza el color rojo para destacar aquellos genes con expresión diferencial significativa; en relación a ello, se observa que un solo gen presenta expresión diferencial, el cual esta sobre-expresado en la especie mutante en ambos medios de cultivo (biofilm y plantónico), por lo cual el genotipo (WT o mutante) no tiene un efecto determinante en el perfil de expresión diferencial; en contraste, con estos resultados se respalda que es el medio de cultivo el que es determinante para el fenotipo. 
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-01-05-10-56-18-image.png)
+<img width="926" height="459" alt="F3-Tarea 15_4 3" src="https://github.com/user-attachments/assets/acd1ec4f-d058-4d81-8d56-173224096a3b" />
 
 *Fig 3*: Observar la distribución de significancia de genes que estan expresados de manera diferencial.
 
 En el gráfico tipo histograma, se observa la frecuencia de genes según expresión diferencial en relación al medio de cultivo (a este nivel gran parte de los genes se encuentran diferencialmente expresados, con un valor de p < 0.1) y al genotipo ( a este nivel la expresión diferencial es uniforme para los genes en estudio). Con esta comparación se refuerza que el medio de cultivo es el que tiene mayor peso en relación al perfil de expresión de la bacteria, en contraste con el genotipo.
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-01-05-11-17-30-image.png)
+<img width="924" height="430" alt="F4-Tarea 15_4 3" src="https://github.com/user-attachments/assets/58d40a30-ac22-4359-82de-bedf5dff37ee" />
 
 *Fig 4*: Observar la distribución de significancia de genes que estan expresados de manera diferencial cuando se ha realizado una corrección por pruebas múltiples.
 
@@ -65,5 +65,6 @@ Sería interesante incluir estudios para realizar análisis funcionales con el f
 ### Conclusión
 
 El análisis de expresión diferencial por medio de RNAseq hizo posible determinar  cambios en los niveles de expresión asociados tanto al medio de cultivo como al genotipo. En los resultados se observa que el crecimiento según en el medio de cultivo  induce cambios significativos en la expresión de los genes, en contraste al genotipo del organismo, con lo cual el la expresión génica se observa más uniforme.
+
 
 
